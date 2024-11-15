@@ -5,6 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicBoolean;
 
+// Multi-threadded Server
 public class Server {
     // Port for server to listen on
     private static final int PORT = 8080;
