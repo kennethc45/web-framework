@@ -1,5 +1,5 @@
 # web-framework
-Building Java web-framework from scratch
+Building a Java web-framework from scratch
 
 # Testing 
 For testing, if the test file is changed or intialized for the first time, make sure to compile it before running.
