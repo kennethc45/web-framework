@@ -6,7 +6,7 @@ For testing, if the test file is changed or intialized for the first time, make 
 
 For Server file
  - Compile `javac -d out -cp "lib/*" src/Server.java tests/Server_Integration_Test.java`
- - Run `java -cp out tests.Server_Integration_Test`
+ - Run `java -ea -cp out tests.Server_Integration_Test`
 
 For Request file
  - Compile `javac -cp "lib/*" -d out src/Request.java tests/Request_Test.java`
